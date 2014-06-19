@@ -1,7 +1,7 @@
 Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
-Source-Url: https://github.com/mingj/openshift-httpd-cartridge-broken.git
+Source-Url: https://github.com/mingj/httpd.git
 Description: "A httpd cartridge for development use only."
 Cartridge-Vendor: mmcgrathinc
 Version: '0.1'
